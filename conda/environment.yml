@@ -12,3 +12,11 @@ dependencies:
   - jupytext
   - plotly
   - pandas
+  - scikit-learn
+  - joblib
+  - tensorflow
+  - matplotlib
+  - keras
+  - pip: 
+    - pretty_confusion_matrix
+
